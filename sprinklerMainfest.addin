@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Sprinkler_Plugins</Name>
+		<Assembly>Sprinkler_Plugins.dll</Assembly>
+		<FullClassName>Sprinkler_Plugins.Ribbon_Interface.Tabs_UI</FullClassName>
+		<Text>BIM plugins</Text>
+		<Description>BIM plugins</Description>
+		<AddInId>
+			1EA1DDD1-318D-4336-B41F-D2264789C1E5
+		</AddInId>
+		<VendorId>Eng. Mohamed Tarek</VendorId>
+		<VendorDescription>BIM Developer, MohamedTarek414@outlook.com</VendorDescription>
+
+	</AddIn>
+</RevitAddIns>
+
+
